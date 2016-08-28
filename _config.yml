@@ -1,0 +1,14 @@
+layout_spectrum: 0.03581701032817364
+typography_spectrum: 0.8821204318664968
+color:
+  brandStrength: 0.4638859808910638
+  lightness: 0.04319761227816343
+  saturation: 0.7058219311293215
+  rhythmicContrast: 0.7760366685688496
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+name: Harper
