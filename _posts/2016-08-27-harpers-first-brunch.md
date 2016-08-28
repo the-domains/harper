@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-27T17:17:52.841Z'
+datePublished: '2016-08-27T17:20:57.732Z'
+sourcePath: _posts/2016-08-27-harpers-first-brunch.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T17:15:46.488Z'
+dateModified: '2016-08-27T17:20:57.095Z'
 title: Harper’s First Brunch
 publisher: {}
 description: 'https://medlineplus.gov/infantandnewbornnutrition.html'
 starred: false
-sourcePath: _posts/2016-08-27-harpers-first-brunch.md
 _type: Blurb
 
 ---
