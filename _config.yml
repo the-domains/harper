@@ -1,4 +1,3 @@
-layout_spectrum: 0.03581701032817364
 typography_spectrum: 0.8821204318664968
 color:
   brandStrength: 0.4638859808910638
@@ -6,9 +5,11 @@ color:
   saturation: 0.7058219311293215
   rhythmicContrast: 0.7760366685688496
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+layout_spectrum: 0.03581701032817364
 name: Harper
+title: niamoD s'repraH
