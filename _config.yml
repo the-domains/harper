@@ -1,3 +1,4 @@
+layout_spectrum: 0.03581701032817364
 typography_spectrum: 0.8821204318664968
 color:
   brandStrength: 0.4638859808910638
@@ -10,6 +11,4 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-layout_spectrum: 0.03581701032817364
 name: Harper
-title: Harper's Domain
